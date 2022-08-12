@@ -1,0 +1,7 @@
+{
+  "main_list": "./filelist2.txt",
+  "compared_list": "./filelist1.txt",
+  "main_part_to_be_deleted": "X:\\test folder\\",
+  "compared_part_to_be_deleted": "X:\\test folder\\",
+  "new_file_with_parts": "./missing_files.txt"
+}

@@ -1,7 +1,3 @@
-TEXT = "text1\ntext2\ntext3\ntext4\n"
-PATH = "../text_text.txt"
-
-
 class CreateFile:
 
     @staticmethod
@@ -13,4 +9,6 @@ class CreateFile:
 
 
 if __name__ == '__main__':
+    TEXT = "text1\ntext2\ntext3\ntext4\n"
+    PATH = "../text_text.txt"
     print(CreateFile.create_file(PATH, TEXT))
