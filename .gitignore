@@ -129,10 +129,11 @@ dmypy.json
 .pyre/
 
 
-#My files
+#My folders/files
 .idea
 ./idea
+/Compare Files From Lists
 filelist.txt
 filelist1.txt
 filelist2.txt
-
+missing_files.txt
